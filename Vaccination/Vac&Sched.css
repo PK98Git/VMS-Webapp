@@ -1,0 +1,13 @@
+.card {
+    border: none;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 24px 0 rgb(34 41 47 / 10%);
+    transition: all 0.3s ease-in-out, background 0s, color 0s, border-color 0s;
+	border-color:  0s;
+}
+
+ html body {
+    height: 100%;
+    background-color: #f6f6f6;
+    direction: ltr; 
+}

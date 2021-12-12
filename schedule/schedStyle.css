@@ -1,0 +1,6 @@
+table tr:not(:first-child){
+	cursor: pointer;transition: all .25s ease-in-out;
+}
+table tr:hover{
+	background-color: #ddd;
+}
